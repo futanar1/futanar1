@@ -14,7 +14,6 @@ Tools: GraphQL, Node.js, Prisma, TypeGraphQL
 Databases: PostgresQL, MongoDB, Firebase, Redis
 Learning: C#, Go, Python
 Hobbies: Programming, Skateboarding, Music, Movies, Gaming
-Discord: zxffo#9146
 -------------------------
 She/her
 ```
